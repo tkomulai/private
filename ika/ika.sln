@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ika", "ika\ika.csproj", "{8DC34A39-0E26-4CB0-9E66-CC1BEEAEFC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC34A39-0E26-4CB0-9E66-CC1BEEAEFC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC34A39-0E26-4CB0-9E66-CC1BEEAEFC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC34A39-0E26-4CB0-9E66-CC1BEEAEFC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC34A39-0E26-4CB0-9E66-CC1BEEAEFC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A4DD5D-8BD2-4489-AA48-AE8396C758D3}
+	EndGlobalSection
+EndGlobal
