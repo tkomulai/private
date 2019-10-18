@@ -1,0 +1,10 @@
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\bin\Debug\Nelilaskin.exe.config
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\bin\Debug\Nelilaskin.exe
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\bin\Debug\Nelilaskin.pdb
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.csprojAssemblyReference.cache
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.Form1.resources
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.Properties.Resources.resources
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.csproj.GenerateResource.cache
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.csproj.CoreCompileInputs.cache
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.exe
+C:\Users\teemukom\source\repos\tkomulai\private\Nelilaskin\Nelilaskin\obj\Debug\Nelilaskin.pdb
