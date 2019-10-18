@@ -1,0 +1,12 @@
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\bin\Debug\Pankkiohjelma.exe.config
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\bin\Debug\Pankkiohjelma.exe
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\bin\Debug\Pankkiohjelma.pdb
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.csprojAssemblyReference.cache
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.Form1.resources
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.Properties.Resources.resources
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.csproj.GenerateResource.cache
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.csproj.CoreCompileInputs.cache
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.exe
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.pdb
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.NostoIkkuna.resources
+C:\Users\teemukom\source\repos\Pankkiohjelma\Pankkiohjelma\obj\Debug\Pankkiohjelma.TalletusIkkuna.resources
