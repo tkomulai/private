@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bensa-Automaatti", "Bensa-Automaatti\Bensa-Automaatti.csproj", "{9914146E-D208-4C92-A0F9-3BF98DEF694D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9914146E-D208-4C92-A0F9-3BF98DEF694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914146E-D208-4C92-A0F9-3BF98DEF694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914146E-D208-4C92-A0F9-3BF98DEF694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914146E-D208-4C92-A0F9-3BF98DEF694D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC27D185-3E6B-4983-BCE2-C166B68EFCAE}
+	EndGlobalSection
+EndGlobal
